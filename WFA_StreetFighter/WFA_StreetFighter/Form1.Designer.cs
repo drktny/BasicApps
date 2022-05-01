@@ -86,10 +86,11 @@ namespace WFA_StreetFighter
             // timer1
             // 
             this.timer1.Interval = 800;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // CPUGroupBox
             // 
-            this.CPUGroupBox.Location = new System.Drawing.Point(1053, 218);
+            this.CPUGroupBox.Location = new System.Drawing.Point(1060, 206);
             this.CPUGroupBox.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.CPUGroupBox.Name = "CPUGroupBox";
             this.CPUGroupBox.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
@@ -149,7 +150,7 @@ namespace WFA_StreetFighter
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(776, 411);
+            this.label12.Location = new System.Drawing.Point(763, 411);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(93, 29);
             this.label12.TabIndex = 63;
@@ -159,7 +160,7 @@ namespace WFA_StreetFighter
             // 
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(776, 360);
+            this.label13.Location = new System.Drawing.Point(763, 360);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(55, 29);
             this.label13.TabIndex = 62;
@@ -169,7 +170,7 @@ namespace WFA_StreetFighter
             // 
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(776, 312);
+            this.label14.Location = new System.Drawing.Point(763, 312);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(114, 29);
             this.label14.TabIndex = 61;
@@ -179,7 +180,7 @@ namespace WFA_StreetFighter
             // 
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(776, 266);
+            this.label15.Location = new System.Drawing.Point(763, 266);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(84, 29);
             this.label15.TabIndex = 60;
@@ -189,7 +190,7 @@ namespace WFA_StreetFighter
             // 
             this.label16.AutoSize = true;
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label16.Location = new System.Drawing.Point(775, 218);
+            this.label16.Location = new System.Drawing.Point(762, 218);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(205, 29);
             this.label16.TabIndex = 59;
@@ -219,7 +220,7 @@ namespace WFA_StreetFighter
             // 
             this.lblCPUEnergy.AutoSize = true;
             this.lblCPUEnergy.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCPUEnergy.Location = new System.Drawing.Point(986, 411);
+            this.lblCPUEnergy.Location = new System.Drawing.Point(973, 411);
             this.lblCPUEnergy.Name = "lblCPUEnergy";
             this.lblCPUEnergy.Size = new System.Drawing.Size(20, 29);
             this.lblCPUEnergy.TabIndex = 56;
@@ -229,7 +230,7 @@ namespace WFA_StreetFighter
             // 
             this.lblCPUDefence.AutoSize = true;
             this.lblCPUDefence.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCPUDefence.Location = new System.Drawing.Point(986, 312);
+            this.lblCPUDefence.Location = new System.Drawing.Point(973, 312);
             this.lblCPUDefence.Name = "lblCPUDefence";
             this.lblCPUDefence.Size = new System.Drawing.Size(20, 29);
             this.lblCPUDefence.TabIndex = 55;
@@ -239,7 +240,7 @@ namespace WFA_StreetFighter
             // 
             this.lblCPUHp.AutoSize = true;
             this.lblCPUHp.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCPUHp.Location = new System.Drawing.Point(986, 360);
+            this.lblCPUHp.Location = new System.Drawing.Point(973, 360);
             this.lblCPUHp.Name = "lblCPUHp";
             this.lblCPUHp.Size = new System.Drawing.Size(20, 29);
             this.lblCPUHp.TabIndex = 54;
@@ -249,7 +250,7 @@ namespace WFA_StreetFighter
             // 
             this.lblCPUAttack.AutoSize = true;
             this.lblCPUAttack.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCPUAttack.Location = new System.Drawing.Point(986, 266);
+            this.lblCPUAttack.Location = new System.Drawing.Point(973, 266);
             this.lblCPUAttack.Name = "lblCPUAttack";
             this.lblCPUAttack.Size = new System.Drawing.Size(20, 29);
             this.lblCPUAttack.TabIndex = 48;
@@ -259,7 +260,7 @@ namespace WFA_StreetFighter
             // 
             this.lblCPUName.AutoSize = true;
             this.lblCPUName.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCPUName.Location = new System.Drawing.Point(986, 218);
+            this.lblCPUName.Location = new System.Drawing.Point(973, 218);
             this.lblCPUName.Name = "lblCPUName";
             this.lblCPUName.Size = new System.Drawing.Size(20, 29);
             this.lblCPUName.TabIndex = 47;
@@ -277,6 +278,7 @@ namespace WFA_StreetFighter
             this.btnFight.TabIndex = 46;
             this.btnFight.Text = "Fight";
             this.btnFight.UseVisualStyleBackColor = false;
+            this.btnFight.Click += new System.EventHandler(this.btnFight_Click);
             // 
             // label4
             // 
@@ -308,6 +310,7 @@ namespace WFA_StreetFighter
             this.cmbUserCharacter.Name = "cmbUserCharacter";
             this.cmbUserCharacter.Size = new System.Drawing.Size(308, 29);
             this.cmbUserCharacter.TabIndex = 43;
+            this.cmbUserCharacter.SelectedIndexChanged += new System.EventHandler(this.cmbUserCharacter_SelectedIndexChanged);
             // 
             // label1
             // 
