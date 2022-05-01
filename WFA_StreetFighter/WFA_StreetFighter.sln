@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA_StreetFighter", "WFA_StreetFighter\WFA_StreetFighter.csproj", "{BAEFDE3D-8618-42C3-A01C-B2722CD62121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEFDE3D-8618-42C3-A01C-B2722CD62121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEFDE3D-8618-42C3-A01C-B2722CD62121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEFDE3D-8618-42C3-A01C-B2722CD62121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEFDE3D-8618-42C3-A01C-B2722CD62121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D8C0FB8-E691-49AB-88DB-1E1BCB013E83}
+	EndGlobalSection
+EndGlobal
