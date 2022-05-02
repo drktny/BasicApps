@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA_HorceRacing", "WFA_HorceRacing\WFA_HorceRacing.csproj", "{FE08CF37-B5F7-4032-A314-AE776E65698E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE08CF37-B5F7-4032-A314-AE776E65698E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE08CF37-B5F7-4032-A314-AE776E65698E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE08CF37-B5F7-4032-A314-AE776E65698E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE08CF37-B5F7-4032-A314-AE776E65698E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDEAEF62-CA14-45D9-89DC-F2212C16824E}
+	EndGlobalSection
+EndGlobal

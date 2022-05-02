@@ -8,3 +8,13 @@ C:\Users\User\Desktop\app\WFA_StreetFighter\WFA_StreetFighter\obj\Debug\WFA_Stre
 C:\Users\User\Desktop\app\WFA_StreetFighter\WFA_StreetFighter\obj\Debug\WFA_StreetFighter.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\app\WFA_StreetFighter\WFA_StreetFighter\obj\Debug\WFA_StreetFighter.exe
 C:\Users\User\Desktop\app\WFA_StreetFighter\WFA_StreetFighter\obj\Debug\WFA_StreetFighter.pdb
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_StreetFighter\WFA_StreetFighter\bin\Debug\WFA_StreetFighter.exe.config
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_StreetFighter\WFA_StreetFighter\bin\Debug\WFA_StreetFighter.exe
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_StreetFighter\WFA_StreetFighter\bin\Debug\WFA_StreetFighter.pdb
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_StreetFighter\WFA_StreetFighter\obj\Debug\WFA_StreetFighter.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_StreetFighter\WFA_StreetFighter\obj\Debug\WFA_StreetFighter.Form1.resources
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_StreetFighter\WFA_StreetFighter\obj\Debug\WFA_StreetFighter.Properties.Resources.resources
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_StreetFighter\WFA_StreetFighter\obj\Debug\WFA_StreetFighter.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_StreetFighter\WFA_StreetFighter\obj\Debug\WFA_StreetFighter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_StreetFighter\WFA_StreetFighter\obj\Debug\WFA_StreetFighter.exe
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_StreetFighter\WFA_StreetFighter\obj\Debug\WFA_StreetFighter.pdb
