@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_DiceGame\WFA_DiceGame\bin\Debug\WFA_DiceGame.exe.config
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_DiceGame\WFA_DiceGame\bin\Debug\WFA_DiceGame.exe
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_DiceGame\WFA_DiceGame\bin\Debug\WFA_DiceGame.pdb
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_DiceGame\WFA_DiceGame\obj\Debug\WFA_DiceGame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_DiceGame\WFA_DiceGame\obj\Debug\WFA_DiceGame.Form1.resources
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_DiceGame\WFA_DiceGame\obj\Debug\WFA_DiceGame.Properties.Resources.resources
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_DiceGame\WFA_DiceGame\obj\Debug\WFA_DiceGame.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_DiceGame\WFA_DiceGame\obj\Debug\WFA_DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_DiceGame\WFA_DiceGame\obj\Debug\WFA_DiceGame.exe
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_DiceGame\WFA_DiceGame\obj\Debug\WFA_DiceGame.pdb
