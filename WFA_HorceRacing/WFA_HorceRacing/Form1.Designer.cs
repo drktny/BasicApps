@@ -63,7 +63,7 @@ namespace WFA_HorceRacing
             // lblCommentator
             // 
             this.lblCommentator.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCommentator.Location = new System.Drawing.Point(937, 452);
+            this.lblCommentator.Location = new System.Drawing.Point(987, 452);
             this.lblCommentator.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblCommentator.Name = "lblCommentator";
             this.lblCommentator.Size = new System.Drawing.Size(287, 55);
@@ -73,6 +73,7 @@ namespace WFA_HorceRacing
             // timer1
             // 
             this.timer1.Interval = 250;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // btnStart
             // 
@@ -83,6 +84,7 @@ namespace WFA_HorceRacing
             this.btnStart.TabIndex = 12;
             this.btnStart.Text = "START";
             this.btnStart.UseVisualStyleBackColor = true;
+            this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
             // 
             // btnBet3
             // 
@@ -93,6 +95,7 @@ namespace WFA_HorceRacing
             this.btnBet3.TabIndex = 11;
             this.btnBet3.Text = "Bet";
             this.btnBet3.UseVisualStyleBackColor = true;
+            this.btnBet3.Click += new System.EventHandler(this.btnBet3_Click);
             // 
             // nmr3
             // 
@@ -129,13 +132,14 @@ namespace WFA_HorceRacing
             this.btnBet2.TabIndex = 7;
             this.btnBet2.Text = "Bet";
             this.btnBet2.UseVisualStyleBackColor = true;
+            this.btnBet2.Click += new System.EventHandler(this.btnBet2_Click);
             // 
             // lblFinish
             // 
             this.lblFinish.BackColor = System.Drawing.Color.DarkRed;
             this.lblFinish.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.lblFinish.ForeColor = System.Drawing.SystemColors.Control;
-            this.lblFinish.Location = new System.Drawing.Point(1181, 89);
+            this.lblFinish.Location = new System.Drawing.Point(1295, 74);
             this.lblFinish.Name = "lblFinish";
             this.lblFinish.Size = new System.Drawing.Size(45, 321);
             this.lblFinish.TabIndex = 10;
@@ -187,6 +191,7 @@ namespace WFA_HorceRacing
             this.btnBet1.TabIndex = 3;
             this.btnBet1.Text = "Bet";
             this.btnBet1.UseVisualStyleBackColor = true;
+            this.btnBet1.Click += new System.EventHandler(this.btnBet1_Click);
             // 
             // nmr1
             // 
@@ -273,6 +278,7 @@ namespace WFA_HorceRacing
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.nmr3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbHorse3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nmr2)).EndInit();

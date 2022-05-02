@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_HorceRacing\WFA_HorceRacing\obj\Debug\WFA_HorceRacing.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_HorceRacing\WFA_HorceRacing\obj\Debug\WFA_HorceRacing.Form1.resources
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_HorceRacing\WFA_HorceRacing\obj\Debug\WFA_HorceRacing.Properties.Resources.resources
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_HorceRacing\WFA_HorceRacing\obj\Debug\WFA_HorceRacing.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_HorceRacing\WFA_HorceRacing\obj\Debug\WFA_HorceRacing.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_HorceRacing\WFA_HorceRacing\bin\Debug\WFA_HorceRacing.exe.config
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_HorceRacing\WFA_HorceRacing\bin\Debug\WFA_HorceRacing.exe
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_HorceRacing\WFA_HorceRacing\bin\Debug\WFA_HorceRacing.pdb
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_HorceRacing\WFA_HorceRacing\obj\Debug\WFA_HorceRacing.exe
+C:\Users\User\Desktop\Yeni klasör (4)\WFA_HorceRacing\WFA_HorceRacing\obj\Debug\WFA_HorceRacing.pdb
