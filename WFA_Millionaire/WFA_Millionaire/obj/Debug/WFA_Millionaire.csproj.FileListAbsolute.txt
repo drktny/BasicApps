@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Yeni klasör (5)\WFA_Millionaire\WFA_Millionaire\bin\Debug\WFA_Millionaire.exe.config
+C:\Users\User\Desktop\Yeni klasör (5)\WFA_Millionaire\WFA_Millionaire\bin\Debug\WFA_Millionaire.exe
+C:\Users\User\Desktop\Yeni klasör (5)\WFA_Millionaire\WFA_Millionaire\bin\Debug\WFA_Millionaire.pdb
+C:\Users\User\Desktop\Yeni klasör (5)\WFA_Millionaire\WFA_Millionaire\bin\Debug\Guna.UI2.dll
+C:\Users\User\Desktop\Yeni klasör (5)\WFA_Millionaire\WFA_Millionaire\obj\Debug\WFA_Millionaire.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yeni klasör (5)\WFA_Millionaire\WFA_Millionaire\obj\Debug\WFA_Millionaire.Form1.resources
+C:\Users\User\Desktop\Yeni klasör (5)\WFA_Millionaire\WFA_Millionaire\obj\Debug\WFA_Millionaire.Properties.Resources.resources
+C:\Users\User\Desktop\Yeni klasör (5)\WFA_Millionaire\WFA_Millionaire\obj\Debug\WFA_Millionaire.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Yeni klasör (5)\WFA_Millionaire\WFA_Millionaire\obj\Debug\WFA_Millionaire.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yeni klasör (5)\WFA_Millionaire\WFA_Millionaire\obj\Debug\WFA_Millionaire.csproj.CopyComplete
+C:\Users\User\Desktop\Yeni klasör (5)\WFA_Millionaire\WFA_Millionaire\obj\Debug\WFA_Millionaire.exe
+C:\Users\User\Desktop\Yeni klasör (5)\WFA_Millionaire\WFA_Millionaire\obj\Debug\WFA_Millionaire.pdb
