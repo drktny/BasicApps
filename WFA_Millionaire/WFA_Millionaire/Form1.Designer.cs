@@ -131,7 +131,7 @@ namespace WFA_Millionaire
             this.guna2Panel1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.guna2Panel1.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.guna2Panel1.FillColor3 = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.guna2Panel1.Location = new System.Drawing.Point(40, 381);
+            this.guna2Panel1.Location = new System.Drawing.Point(51, 515);
             this.guna2Panel1.Name = "guna2Panel1";
             this.guna2Panel1.Size = new System.Drawing.Size(930, 184);
             this.guna2Panel1.TabIndex = 0;
@@ -161,6 +161,7 @@ namespace WFA_Millionaire
             // 
             // aOption
             // 
+            this.aOption.BackColor = System.Drawing.Color.Transparent;
             this.aOption.BorderColor = System.Drawing.Color.Navy;
             this.aOption.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.aOption.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
@@ -169,7 +170,7 @@ namespace WFA_Millionaire
             this.aOption.FillColor = System.Drawing.Color.DarkSlateGray;
             this.aOption.Font = new System.Drawing.Font("Century", 12F, System.Drawing.FontStyle.Bold);
             this.aOption.ForeColor = System.Drawing.Color.White;
-            this.aOption.Location = new System.Drawing.Point(40, 588);
+            this.aOption.Location = new System.Drawing.Point(51, 722);
             this.aOption.Name = "aOption";
             this.aOption.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.aOption.Size = new System.Drawing.Size(418, 114);
@@ -178,6 +179,7 @@ namespace WFA_Millionaire
             // 
             // bOption
             // 
+            this.bOption.BackColor = System.Drawing.Color.Transparent;
             this.bOption.BorderColor = System.Drawing.Color.Navy;
             this.bOption.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.bOption.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
@@ -186,7 +188,7 @@ namespace WFA_Millionaire
             this.bOption.FillColor = System.Drawing.Color.DarkSlateGray;
             this.bOption.Font = new System.Drawing.Font("Century", 12F, System.Drawing.FontStyle.Bold);
             this.bOption.ForeColor = System.Drawing.Color.White;
-            this.bOption.Location = new System.Drawing.Point(552, 589);
+            this.bOption.Location = new System.Drawing.Point(563, 723);
             this.bOption.Name = "bOption";
             this.bOption.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.bOption.Size = new System.Drawing.Size(418, 114);
@@ -195,6 +197,7 @@ namespace WFA_Millionaire
             // 
             // cOption
             // 
+            this.cOption.BackColor = System.Drawing.Color.Transparent;
             this.cOption.BorderColor = System.Drawing.Color.Navy;
             this.cOption.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.cOption.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
@@ -203,7 +206,7 @@ namespace WFA_Millionaire
             this.cOption.FillColor = System.Drawing.Color.DarkSlateGray;
             this.cOption.Font = new System.Drawing.Font("Century", 12F, System.Drawing.FontStyle.Bold);
             this.cOption.ForeColor = System.Drawing.Color.White;
-            this.cOption.Location = new System.Drawing.Point(40, 735);
+            this.cOption.Location = new System.Drawing.Point(51, 869);
             this.cOption.Name = "cOption";
             this.cOption.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.cOption.Size = new System.Drawing.Size(418, 114);
@@ -212,6 +215,7 @@ namespace WFA_Millionaire
             // 
             // dOption
             // 
+            this.dOption.BackColor = System.Drawing.Color.Transparent;
             this.dOption.BorderColor = System.Drawing.Color.Navy;
             this.dOption.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.dOption.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
@@ -220,7 +224,7 @@ namespace WFA_Millionaire
             this.dOption.FillColor = System.Drawing.Color.DarkSlateGray;
             this.dOption.Font = new System.Drawing.Font("Century", 12F, System.Drawing.FontStyle.Bold);
             this.dOption.ForeColor = System.Drawing.Color.White;
-            this.dOption.Location = new System.Drawing.Point(552, 736);
+            this.dOption.Location = new System.Drawing.Point(563, 870);
             this.dOption.Name = "dOption";
             this.dOption.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.dOption.Size = new System.Drawing.Size(418, 114);
@@ -246,7 +250,7 @@ namespace WFA_Millionaire
             this.guna2ShadowPanel1.Controls.Add(this.panel2);
             this.guna2ShadowPanel1.Controls.Add(this.panel1);
             this.guna2ShadowPanel1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.guna2ShadowPanel1.Location = new System.Drawing.Point(1036, 205);
+            this.guna2ShadowPanel1.Location = new System.Drawing.Point(1560, 332);
             this.guna2ShadowPanel1.Name = "guna2ShadowPanel1";
             this.guna2ShadowPanel1.ShadowColor = System.Drawing.Color.Blue;
             this.guna2ShadowPanel1.Size = new System.Drawing.Size(361, 651);
@@ -262,6 +266,7 @@ namespace WFA_Millionaire
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 2;
             this.pictureBox3.TabStop = false;
+            this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
             // 
             // pictureBox2
             // 
@@ -273,6 +278,7 @@ namespace WFA_Millionaire
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 2;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // pictureBox1
             // 
@@ -284,6 +290,7 @@ namespace WFA_Millionaire
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // panel12
             // 
@@ -294,6 +301,7 @@ namespace WFA_Millionaire
             this.panel12.Name = "panel12";
             this.panel12.Size = new System.Drawing.Size(238, 39);
             this.panel12.TabIndex = 1;
+            this.panel12.Paint += new System.Windows.Forms.PaintEventHandler(this.panel12_Paint);
             // 
             // label12
             // 
@@ -696,9 +704,9 @@ namespace WFA_Millionaire
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(37, 23);
+            this.pictureBox4.Location = new System.Drawing.Point(156, 12);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(235, 227);
+            this.pictureBox4.Size = new System.Drawing.Size(313, 228);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 3;
             this.pictureBox4.TabStop = false;
@@ -712,9 +720,9 @@ namespace WFA_Millionaire
             this.guna2Button1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.guna2Button1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 10.8F);
             this.guna2Button1.ForeColor = System.Drawing.Color.White;
-            this.guna2Button1.Location = new System.Drawing.Point(37, 270);
+            this.guna2Button1.Location = new System.Drawing.Point(156, 259);
             this.guna2Button1.Name = "guna2Button1";
-            this.guna2Button1.Size = new System.Drawing.Size(235, 50);
+            this.guna2Button1.Size = new System.Drawing.Size(313, 50);
             this.guna2Button1.TabIndex = 4;
             this.guna2Button1.Text = "Regis Philbin";
             this.guna2Button1.Click += new System.EventHandler(this.guna2Button1_Click);
@@ -727,7 +735,7 @@ namespace WFA_Millionaire
             this.pnlPhone.Controls.Add(this.guna2Button4);
             this.pnlPhone.Controls.Add(this.guna2Button3);
             this.pnlPhone.Controls.Add(this.guna2Button2);
-            this.pnlPhone.Location = new System.Drawing.Point(295, 23);
+            this.pnlPhone.Location = new System.Drawing.Point(1224, 12);
             this.pnlPhone.Name = "pnlPhone";
             this.pnlPhone.Size = new System.Drawing.Size(320, 297);
             this.pnlPhone.TabIndex = 5;
@@ -767,6 +775,7 @@ namespace WFA_Millionaire
             this.guna2Button4.Size = new System.Drawing.Size(179, 45);
             this.guna2Button4.TabIndex = 0;
             this.guna2Button4.Text = "Jonny";
+            this.guna2Button4.Click += new System.EventHandler(this.guna2Button4_Click);
             // 
             // guna2Button3
             // 
@@ -783,6 +792,7 @@ namespace WFA_Millionaire
             this.guna2Button3.Size = new System.Drawing.Size(179, 45);
             this.guna2Button3.TabIndex = 0;
             this.guna2Button3.Text = "Emily";
+            this.guna2Button3.Click += new System.EventHandler(this.guna2Button3_Click);
             // 
             // guna2Button2
             // 
@@ -799,6 +809,7 @@ namespace WFA_Millionaire
             this.guna2Button2.Size = new System.Drawing.Size(179, 45);
             this.guna2Button2.TabIndex = 0;
             this.guna2Button2.Text = "Jack";
+            this.guna2Button2.Click += new System.EventHandler(this.guna2Button2_Click);
             // 
             // panel13
             // 
@@ -817,7 +828,7 @@ namespace WFA_Millionaire
             this.panel13.Controls.Add(this.label34);
             this.panel13.Controls.Add(this.label30);
             this.panel13.Controls.Add(this.label29);
-            this.panel13.Location = new System.Drawing.Point(640, 23);
+            this.panel13.Location = new System.Drawing.Point(1569, 12);
             this.panel13.Name = "panel13";
             this.panel13.Size = new System.Drawing.Size(350, 297);
             this.panel13.TabIndex = 5;
@@ -912,7 +923,7 @@ namespace WFA_Millionaire
             this.label34.Name = "label34";
             this.label34.Size = new System.Drawing.Size(54, 40);
             this.label34.TabIndex = 1;
-            this.label34.Text = "A";
+            this.label34.Text = "0%";
             this.label34.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label35
@@ -923,7 +934,7 @@ namespace WFA_Millionaire
             this.label35.Name = "label35";
             this.label35.Size = new System.Drawing.Size(54, 40);
             this.label35.TabIndex = 1;
-            this.label35.Text = "A";
+            this.label35.Text = "0%";
             this.label35.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label36
@@ -934,7 +945,7 @@ namespace WFA_Millionaire
             this.label36.Name = "label36";
             this.label36.Size = new System.Drawing.Size(54, 40);
             this.label36.TabIndex = 1;
-            this.label36.Text = "A";
+            this.label36.Text = "0%";
             this.label36.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label37
@@ -945,7 +956,7 @@ namespace WFA_Millionaire
             this.label37.Name = "label37";
             this.label37.Size = new System.Drawing.Size(54, 40);
             this.label37.TabIndex = 1;
-            this.label37.Text = "A";
+            this.label37.Text = "0%";
             this.label37.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // guna2Button5
@@ -963,13 +974,16 @@ namespace WFA_Millionaire
             this.guna2Button5.Size = new System.Drawing.Size(179, 45);
             this.guna2Button5.TabIndex = 0;
             this.guna2Button5.Text = "ASK";
+            this.guna2Button5.Click += new System.EventHandler(this.guna2Button5_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1437, 903);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(1924, 1003);
             this.Controls.Add(this.panel13);
             this.Controls.Add(this.pnlPhone);
             this.Controls.Add(this.guna2Button1);
@@ -983,6 +997,7 @@ namespace WFA_Millionaire
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.guna2Panel1.ResumeLayout(false);
             this.guna2Panel1.PerformLayout();
