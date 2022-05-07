@@ -41,37 +41,37 @@ namespace WFA_Millionaire
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.guna2Panel12 = new Guna.UI2.WinForms.Guna2Panel();
+            this.panel12 = new Guna.UI2.WinForms.Guna2Panel();
             this.label12 = new System.Windows.Forms.Label();
             this.label22 = new System.Windows.Forms.Label();
-            this.guna2Panel11 = new Guna.UI2.WinForms.Guna2Panel();
+            this.panel11 = new Guna.UI2.WinForms.Guna2Panel();
             this.label9 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
-            this.guna2Panel10 = new Guna.UI2.WinForms.Guna2Panel();
+            this.panel10 = new Guna.UI2.WinForms.Guna2Panel();
             this.label10 = new System.Windows.Forms.Label();
             this.label21 = new System.Windows.Forms.Label();
-            this.guna2Panel9 = new Guna.UI2.WinForms.Guna2Panel();
+            this.panel9 = new Guna.UI2.WinForms.Guna2Panel();
             this.label8 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
-            this.guna2Panel8 = new Guna.UI2.WinForms.Guna2Panel();
+            this.panel8 = new Guna.UI2.WinForms.Guna2Panel();
             this.label25 = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
-            this.guna2Panel7 = new Guna.UI2.WinForms.Guna2Panel();
+            this.panel7 = new Guna.UI2.WinForms.Guna2Panel();
             this.label7 = new System.Windows.Forms.Label();
             this.label19 = new System.Windows.Forms.Label();
-            this.guna2Panel6 = new Guna.UI2.WinForms.Guna2Panel();
+            this.panel6 = new Guna.UI2.WinForms.Guna2Panel();
             this.label6 = new System.Windows.Forms.Label();
             this.label18 = new System.Windows.Forms.Label();
-            this.guna2Panel5 = new Guna.UI2.WinForms.Guna2Panel();
+            this.panel5 = new Guna.UI2.WinForms.Guna2Panel();
             this.label5 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
-            this.guna2Panel4 = new Guna.UI2.WinForms.Guna2Panel();
+            this.panel4 = new Guna.UI2.WinForms.Guna2Panel();
             this.label4 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
-            this.guna2Panel3 = new Guna.UI2.WinForms.Guna2Panel();
+            this.panel3 = new Guna.UI2.WinForms.Guna2Panel();
             this.label3 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
-            this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
+            this.panel2 = new Guna.UI2.WinForms.Guna2Panel();
             this.label2 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.panel1 = new Guna.UI2.WinForms.Guna2Panel();
@@ -85,7 +85,7 @@ namespace WFA_Millionaire
             this.guna2Button4 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button3 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
-            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel13 = new System.Windows.Forms.Panel();
             this.label33 = new System.Windows.Forms.Label();
             this.label32 = new System.Windows.Forms.Label();
             this.label31 = new System.Windows.Forms.Label();
@@ -105,21 +105,21 @@ namespace WFA_Millionaire
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.guna2Panel12.SuspendLayout();
-            this.guna2Panel11.SuspendLayout();
-            this.guna2Panel10.SuspendLayout();
-            this.guna2Panel9.SuspendLayout();
-            this.guna2Panel8.SuspendLayout();
-            this.guna2Panel7.SuspendLayout();
-            this.guna2Panel6.SuspendLayout();
-            this.guna2Panel5.SuspendLayout();
-            this.guna2Panel4.SuspendLayout();
-            this.guna2Panel3.SuspendLayout();
-            this.guna2Panel2.SuspendLayout();
+            this.panel12.SuspendLayout();
+            this.panel11.SuspendLayout();
+            this.panel10.SuspendLayout();
+            this.panel9.SuspendLayout();
+            this.panel8.SuspendLayout();
+            this.panel7.SuspendLayout();
+            this.panel6.SuspendLayout();
+            this.panel5.SuspendLayout();
+            this.panel4.SuspendLayout();
+            this.panel3.SuspendLayout();
+            this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.pnlPhone.SuspendLayout();
-            this.panel2.SuspendLayout();
+            this.panel13.SuspendLayout();
             this.SuspendLayout();
             // 
             // guna2Panel1
@@ -166,7 +166,7 @@ namespace WFA_Millionaire
             this.aOption.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.aOption.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.aOption.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.aOption.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.aOption.FillColor = System.Drawing.Color.DarkSlateGray;
             this.aOption.Font = new System.Drawing.Font("Century", 12F, System.Drawing.FontStyle.Bold);
             this.aOption.ForeColor = System.Drawing.Color.White;
             this.aOption.Location = new System.Drawing.Point(40, 588);
@@ -174,6 +174,7 @@ namespace WFA_Millionaire
             this.aOption.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.aOption.Size = new System.Drawing.Size(418, 114);
             this.aOption.TabIndex = 1;
+            this.aOption.Click += new System.EventHandler(this.aOption_Click);
             // 
             // bOption
             // 
@@ -182,7 +183,7 @@ namespace WFA_Millionaire
             this.bOption.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.bOption.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.bOption.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.bOption.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.bOption.FillColor = System.Drawing.Color.DarkSlateGray;
             this.bOption.Font = new System.Drawing.Font("Century", 12F, System.Drawing.FontStyle.Bold);
             this.bOption.ForeColor = System.Drawing.Color.White;
             this.bOption.Location = new System.Drawing.Point(552, 589);
@@ -190,6 +191,7 @@ namespace WFA_Millionaire
             this.bOption.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.bOption.Size = new System.Drawing.Size(418, 114);
             this.bOption.TabIndex = 1;
+            this.bOption.Click += new System.EventHandler(this.bOption_Click);
             // 
             // cOption
             // 
@@ -198,7 +200,7 @@ namespace WFA_Millionaire
             this.cOption.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.cOption.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.cOption.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.cOption.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.cOption.FillColor = System.Drawing.Color.DarkSlateGray;
             this.cOption.Font = new System.Drawing.Font("Century", 12F, System.Drawing.FontStyle.Bold);
             this.cOption.ForeColor = System.Drawing.Color.White;
             this.cOption.Location = new System.Drawing.Point(40, 735);
@@ -206,6 +208,7 @@ namespace WFA_Millionaire
             this.cOption.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.cOption.Size = new System.Drawing.Size(418, 114);
             this.cOption.TabIndex = 1;
+            this.cOption.Click += new System.EventHandler(this.cOption_Click);
             // 
             // dOption
             // 
@@ -214,7 +217,7 @@ namespace WFA_Millionaire
             this.dOption.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.dOption.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
             this.dOption.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.dOption.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.dOption.FillColor = System.Drawing.Color.DarkSlateGray;
             this.dOption.Font = new System.Drawing.Font("Century", 12F, System.Drawing.FontStyle.Bold);
             this.dOption.ForeColor = System.Drawing.Color.White;
             this.dOption.Location = new System.Drawing.Point(552, 736);
@@ -222,6 +225,7 @@ namespace WFA_Millionaire
             this.dOption.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.dOption.Size = new System.Drawing.Size(418, 114);
             this.dOption.TabIndex = 1;
+            this.dOption.Click += new System.EventHandler(this.dOption_Click);
             // 
             // guna2ShadowPanel1
             // 
@@ -229,17 +233,17 @@ namespace WFA_Millionaire
             this.guna2ShadowPanel1.Controls.Add(this.pictureBox3);
             this.guna2ShadowPanel1.Controls.Add(this.pictureBox2);
             this.guna2ShadowPanel1.Controls.Add(this.pictureBox1);
-            this.guna2ShadowPanel1.Controls.Add(this.guna2Panel12);
-            this.guna2ShadowPanel1.Controls.Add(this.guna2Panel11);
-            this.guna2ShadowPanel1.Controls.Add(this.guna2Panel10);
-            this.guna2ShadowPanel1.Controls.Add(this.guna2Panel9);
-            this.guna2ShadowPanel1.Controls.Add(this.guna2Panel8);
-            this.guna2ShadowPanel1.Controls.Add(this.guna2Panel7);
-            this.guna2ShadowPanel1.Controls.Add(this.guna2Panel6);
-            this.guna2ShadowPanel1.Controls.Add(this.guna2Panel5);
-            this.guna2ShadowPanel1.Controls.Add(this.guna2Panel4);
-            this.guna2ShadowPanel1.Controls.Add(this.guna2Panel3);
-            this.guna2ShadowPanel1.Controls.Add(this.guna2Panel2);
+            this.guna2ShadowPanel1.Controls.Add(this.panel12);
+            this.guna2ShadowPanel1.Controls.Add(this.panel11);
+            this.guna2ShadowPanel1.Controls.Add(this.panel10);
+            this.guna2ShadowPanel1.Controls.Add(this.panel9);
+            this.guna2ShadowPanel1.Controls.Add(this.panel8);
+            this.guna2ShadowPanel1.Controls.Add(this.panel7);
+            this.guna2ShadowPanel1.Controls.Add(this.panel6);
+            this.guna2ShadowPanel1.Controls.Add(this.panel5);
+            this.guna2ShadowPanel1.Controls.Add(this.panel4);
+            this.guna2ShadowPanel1.Controls.Add(this.panel3);
+            this.guna2ShadowPanel1.Controls.Add(this.panel2);
             this.guna2ShadowPanel1.Controls.Add(this.panel1);
             this.guna2ShadowPanel1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.guna2ShadowPanel1.Location = new System.Drawing.Point(1036, 205);
@@ -281,15 +285,15 @@ namespace WFA_Millionaire
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
             // 
-            // guna2Panel12
+            // panel12
             // 
-            this.guna2Panel12.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel12.Controls.Add(this.label12);
-            this.guna2Panel12.Controls.Add(this.label22);
-            this.guna2Panel12.Location = new System.Drawing.Point(55, 103);
-            this.guna2Panel12.Name = "guna2Panel12";
-            this.guna2Panel12.Size = new System.Drawing.Size(238, 39);
-            this.guna2Panel12.TabIndex = 1;
+            this.panel12.BackColor = System.Drawing.Color.Transparent;
+            this.panel12.Controls.Add(this.label12);
+            this.panel12.Controls.Add(this.label22);
+            this.panel12.Location = new System.Drawing.Point(55, 103);
+            this.panel12.Name = "panel12";
+            this.panel12.Size = new System.Drawing.Size(238, 39);
+            this.panel12.TabIndex = 1;
             // 
             // label12
             // 
@@ -315,15 +319,15 @@ namespace WFA_Millionaire
             this.label22.TabIndex = 0;
             this.label22.Text = "12";
             // 
-            // guna2Panel11
+            // panel11
             // 
-            this.guna2Panel11.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel11.Controls.Add(this.label9);
-            this.guna2Panel11.Controls.Add(this.label11);
-            this.guna2Panel11.Location = new System.Drawing.Point(55, 148);
-            this.guna2Panel11.Name = "guna2Panel11";
-            this.guna2Panel11.Size = new System.Drawing.Size(238, 39);
-            this.guna2Panel11.TabIndex = 1;
+            this.panel11.BackColor = System.Drawing.Color.Transparent;
+            this.panel11.Controls.Add(this.label9);
+            this.panel11.Controls.Add(this.label11);
+            this.panel11.Location = new System.Drawing.Point(55, 148);
+            this.panel11.Name = "panel11";
+            this.panel11.Size = new System.Drawing.Size(238, 39);
+            this.panel11.TabIndex = 1;
             // 
             // label9
             // 
@@ -349,15 +353,15 @@ namespace WFA_Millionaire
             this.label11.TabIndex = 0;
             this.label11.Text = "11";
             // 
-            // guna2Panel10
+            // panel10
             // 
-            this.guna2Panel10.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel10.Controls.Add(this.label10);
-            this.guna2Panel10.Controls.Add(this.label21);
-            this.guna2Panel10.Location = new System.Drawing.Point(55, 193);
-            this.guna2Panel10.Name = "guna2Panel10";
-            this.guna2Panel10.Size = new System.Drawing.Size(238, 39);
-            this.guna2Panel10.TabIndex = 1;
+            this.panel10.BackColor = System.Drawing.Color.Transparent;
+            this.panel10.Controls.Add(this.label10);
+            this.panel10.Controls.Add(this.label21);
+            this.panel10.Location = new System.Drawing.Point(55, 193);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(238, 39);
+            this.panel10.TabIndex = 1;
             // 
             // label10
             // 
@@ -383,15 +387,15 @@ namespace WFA_Millionaire
             this.label21.TabIndex = 0;
             this.label21.Text = "10";
             // 
-            // guna2Panel9
+            // panel9
             // 
-            this.guna2Panel9.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel9.Controls.Add(this.label8);
-            this.guna2Panel9.Controls.Add(this.label20);
-            this.guna2Panel9.Location = new System.Drawing.Point(55, 238);
-            this.guna2Panel9.Name = "guna2Panel9";
-            this.guna2Panel9.Size = new System.Drawing.Size(238, 39);
-            this.guna2Panel9.TabIndex = 1;
+            this.panel9.BackColor = System.Drawing.Color.Transparent;
+            this.panel9.Controls.Add(this.label8);
+            this.panel9.Controls.Add(this.label20);
+            this.panel9.Location = new System.Drawing.Point(55, 238);
+            this.panel9.Name = "panel9";
+            this.panel9.Size = new System.Drawing.Size(238, 39);
+            this.panel9.TabIndex = 1;
             // 
             // label8
             // 
@@ -417,15 +421,15 @@ namespace WFA_Millionaire
             this.label20.TabIndex = 0;
             this.label20.Text = "9";
             // 
-            // guna2Panel8
+            // panel8
             // 
-            this.guna2Panel8.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel8.Controls.Add(this.label25);
-            this.guna2Panel8.Controls.Add(this.label26);
-            this.guna2Panel8.Location = new System.Drawing.Point(55, 283);
-            this.guna2Panel8.Name = "guna2Panel8";
-            this.guna2Panel8.Size = new System.Drawing.Size(238, 39);
-            this.guna2Panel8.TabIndex = 1;
+            this.panel8.BackColor = System.Drawing.Color.Transparent;
+            this.panel8.Controls.Add(this.label25);
+            this.panel8.Controls.Add(this.label26);
+            this.panel8.Location = new System.Drawing.Point(55, 283);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(238, 39);
+            this.panel8.TabIndex = 1;
             // 
             // label25
             // 
@@ -451,15 +455,15 @@ namespace WFA_Millionaire
             this.label26.TabIndex = 0;
             this.label26.Text = "8";
             // 
-            // guna2Panel7
+            // panel7
             // 
-            this.guna2Panel7.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel7.Controls.Add(this.label7);
-            this.guna2Panel7.Controls.Add(this.label19);
-            this.guna2Panel7.Location = new System.Drawing.Point(55, 328);
-            this.guna2Panel7.Name = "guna2Panel7";
-            this.guna2Panel7.Size = new System.Drawing.Size(238, 39);
-            this.guna2Panel7.TabIndex = 1;
+            this.panel7.BackColor = System.Drawing.Color.Transparent;
+            this.panel7.Controls.Add(this.label7);
+            this.panel7.Controls.Add(this.label19);
+            this.panel7.Location = new System.Drawing.Point(55, 328);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(238, 39);
+            this.panel7.TabIndex = 1;
             // 
             // label7
             // 
@@ -485,15 +489,15 @@ namespace WFA_Millionaire
             this.label19.TabIndex = 0;
             this.label19.Text = "7";
             // 
-            // guna2Panel6
+            // panel6
             // 
-            this.guna2Panel6.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel6.Controls.Add(this.label6);
-            this.guna2Panel6.Controls.Add(this.label18);
-            this.guna2Panel6.Location = new System.Drawing.Point(55, 373);
-            this.guna2Panel6.Name = "guna2Panel6";
-            this.guna2Panel6.Size = new System.Drawing.Size(238, 39);
-            this.guna2Panel6.TabIndex = 1;
+            this.panel6.BackColor = System.Drawing.Color.Transparent;
+            this.panel6.Controls.Add(this.label6);
+            this.panel6.Controls.Add(this.label18);
+            this.panel6.Location = new System.Drawing.Point(55, 373);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(238, 39);
+            this.panel6.TabIndex = 1;
             // 
             // label6
             // 
@@ -519,15 +523,15 @@ namespace WFA_Millionaire
             this.label18.TabIndex = 0;
             this.label18.Text = "6";
             // 
-            // guna2Panel5
+            // panel5
             // 
-            this.guna2Panel5.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel5.Controls.Add(this.label5);
-            this.guna2Panel5.Controls.Add(this.label17);
-            this.guna2Panel5.Location = new System.Drawing.Point(55, 418);
-            this.guna2Panel5.Name = "guna2Panel5";
-            this.guna2Panel5.Size = new System.Drawing.Size(238, 39);
-            this.guna2Panel5.TabIndex = 1;
+            this.panel5.BackColor = System.Drawing.Color.Transparent;
+            this.panel5.Controls.Add(this.label5);
+            this.panel5.Controls.Add(this.label17);
+            this.panel5.Location = new System.Drawing.Point(55, 418);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(238, 39);
+            this.panel5.TabIndex = 1;
             // 
             // label5
             // 
@@ -553,15 +557,15 @@ namespace WFA_Millionaire
             this.label17.TabIndex = 0;
             this.label17.Text = "5";
             // 
-            // guna2Panel4
+            // panel4
             // 
-            this.guna2Panel4.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel4.Controls.Add(this.label4);
-            this.guna2Panel4.Controls.Add(this.label16);
-            this.guna2Panel4.Location = new System.Drawing.Point(55, 465);
-            this.guna2Panel4.Name = "guna2Panel4";
-            this.guna2Panel4.Size = new System.Drawing.Size(238, 39);
-            this.guna2Panel4.TabIndex = 1;
+            this.panel4.BackColor = System.Drawing.Color.Transparent;
+            this.panel4.Controls.Add(this.label4);
+            this.panel4.Controls.Add(this.label16);
+            this.panel4.Location = new System.Drawing.Point(55, 465);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(238, 39);
+            this.panel4.TabIndex = 1;
             // 
             // label4
             // 
@@ -587,15 +591,15 @@ namespace WFA_Millionaire
             this.label16.TabIndex = 0;
             this.label16.Text = "4";
             // 
-            // guna2Panel3
+            // panel3
             // 
-            this.guna2Panel3.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel3.Controls.Add(this.label3);
-            this.guna2Panel3.Controls.Add(this.label15);
-            this.guna2Panel3.Location = new System.Drawing.Point(55, 510);
-            this.guna2Panel3.Name = "guna2Panel3";
-            this.guna2Panel3.Size = new System.Drawing.Size(238, 39);
-            this.guna2Panel3.TabIndex = 1;
+            this.panel3.BackColor = System.Drawing.Color.Transparent;
+            this.panel3.Controls.Add(this.label3);
+            this.panel3.Controls.Add(this.label15);
+            this.panel3.Location = new System.Drawing.Point(55, 510);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(238, 39);
+            this.panel3.TabIndex = 1;
             // 
             // label3
             // 
@@ -621,15 +625,15 @@ namespace WFA_Millionaire
             this.label15.TabIndex = 0;
             this.label15.Text = "3";
             // 
-            // guna2Panel2
+            // panel2
             // 
-            this.guna2Panel2.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel2.Controls.Add(this.label2);
-            this.guna2Panel2.Controls.Add(this.label14);
-            this.guna2Panel2.Location = new System.Drawing.Point(55, 555);
-            this.guna2Panel2.Name = "guna2Panel2";
-            this.guna2Panel2.Size = new System.Drawing.Size(238, 39);
-            this.guna2Panel2.TabIndex = 1;
+            this.panel2.BackColor = System.Drawing.Color.Transparent;
+            this.panel2.Controls.Add(this.label2);
+            this.panel2.Controls.Add(this.label14);
+            this.panel2.Location = new System.Drawing.Point(55, 555);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(238, 39);
+            this.panel2.TabIndex = 1;
             // 
             // label2
             // 
@@ -796,27 +800,27 @@ namespace WFA_Millionaire
             this.guna2Button2.TabIndex = 0;
             this.guna2Button2.Text = "Jack";
             // 
-            // panel2
+            // panel13
             // 
-            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.panel2.Controls.Add(this.progressBar4);
-            this.panel2.Controls.Add(this.progressBar3);
-            this.panel2.Controls.Add(this.progressBar2);
-            this.panel2.Controls.Add(this.progressBar1);
-            this.panel2.Controls.Add(this.guna2Button5);
-            this.panel2.Controls.Add(this.label33);
-            this.panel2.Controls.Add(this.label32);
-            this.panel2.Controls.Add(this.label31);
-            this.panel2.Controls.Add(this.label37);
-            this.panel2.Controls.Add(this.label36);
-            this.panel2.Controls.Add(this.label35);
-            this.panel2.Controls.Add(this.label34);
-            this.panel2.Controls.Add(this.label30);
-            this.panel2.Controls.Add(this.label29);
-            this.panel2.Location = new System.Drawing.Point(640, 23);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(350, 297);
-            this.panel2.TabIndex = 5;
+            this.panel13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.panel13.Controls.Add(this.progressBar4);
+            this.panel13.Controls.Add(this.progressBar3);
+            this.panel13.Controls.Add(this.progressBar2);
+            this.panel13.Controls.Add(this.progressBar1);
+            this.panel13.Controls.Add(this.guna2Button5);
+            this.panel13.Controls.Add(this.label33);
+            this.panel13.Controls.Add(this.label32);
+            this.panel13.Controls.Add(this.label31);
+            this.panel13.Controls.Add(this.label37);
+            this.panel13.Controls.Add(this.label36);
+            this.panel13.Controls.Add(this.label35);
+            this.panel13.Controls.Add(this.label34);
+            this.panel13.Controls.Add(this.label30);
+            this.panel13.Controls.Add(this.label29);
+            this.panel13.Location = new System.Drawing.Point(640, 23);
+            this.panel13.Name = "panel13";
+            this.panel13.Size = new System.Drawing.Size(350, 297);
+            this.panel13.TabIndex = 5;
             // 
             // label33
             // 
@@ -966,7 +970,7 @@ namespace WFA_Millionaire
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1437, 903);
-            this.Controls.Add(this.panel2);
+            this.Controls.Add(this.panel13);
             this.Controls.Add(this.pnlPhone);
             this.Controls.Add(this.guna2Button1);
             this.Controls.Add(this.pictureBox4);
@@ -986,33 +990,33 @@ namespace WFA_Millionaire
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            this.guna2Panel12.ResumeLayout(false);
-            this.guna2Panel12.PerformLayout();
-            this.guna2Panel11.ResumeLayout(false);
-            this.guna2Panel11.PerformLayout();
-            this.guna2Panel10.ResumeLayout(false);
-            this.guna2Panel10.PerformLayout();
-            this.guna2Panel9.ResumeLayout(false);
-            this.guna2Panel9.PerformLayout();
-            this.guna2Panel8.ResumeLayout(false);
-            this.guna2Panel8.PerformLayout();
-            this.guna2Panel7.ResumeLayout(false);
-            this.guna2Panel7.PerformLayout();
-            this.guna2Panel6.ResumeLayout(false);
-            this.guna2Panel6.PerformLayout();
-            this.guna2Panel5.ResumeLayout(false);
-            this.guna2Panel5.PerformLayout();
-            this.guna2Panel4.ResumeLayout(false);
-            this.guna2Panel4.PerformLayout();
-            this.guna2Panel3.ResumeLayout(false);
-            this.guna2Panel3.PerformLayout();
-            this.guna2Panel2.ResumeLayout(false);
-            this.guna2Panel2.PerformLayout();
+            this.panel12.ResumeLayout(false);
+            this.panel12.PerformLayout();
+            this.panel11.ResumeLayout(false);
+            this.panel11.PerformLayout();
+            this.panel10.ResumeLayout(false);
+            this.panel10.PerformLayout();
+            this.panel9.ResumeLayout(false);
+            this.panel9.PerformLayout();
+            this.panel8.ResumeLayout(false);
+            this.panel8.PerformLayout();
+            this.panel7.ResumeLayout(false);
+            this.panel7.PerformLayout();
+            this.panel6.ResumeLayout(false);
+            this.panel6.PerformLayout();
+            this.panel5.ResumeLayout(false);
+            this.panel5.PerformLayout();
+            this.panel4.ResumeLayout(false);
+            this.panel4.PerformLayout();
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.pnlPhone.ResumeLayout(false);
-            this.panel2.ResumeLayout(false);
+            this.panel13.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -1027,38 +1031,38 @@ namespace WFA_Millionaire
         private Guna.UI2.WinForms.Guna2ShadowPanel guna2ShadowPanel1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label13;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel9;
+        private Guna.UI2.WinForms.Guna2Panel panel9;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label20;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel8;
+        private Guna.UI2.WinForms.Guna2Panel panel8;
         private System.Windows.Forms.Label label25;
         private System.Windows.Forms.Label label26;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel7;
+        private Guna.UI2.WinForms.Guna2Panel panel7;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label19;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel6;
+        private Guna.UI2.WinForms.Guna2Panel panel6;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label18;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel5;
+        private Guna.UI2.WinForms.Guna2Panel panel5;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label17;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel4;
+        private Guna.UI2.WinForms.Guna2Panel panel4;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label16;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel3;
+        private Guna.UI2.WinForms.Guna2Panel panel3;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label15;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel2;
+        private Guna.UI2.WinForms.Guna2Panel panel2;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label14;
         private Guna.UI2.WinForms.Guna2Panel panel1;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel12;
+        private Guna.UI2.WinForms.Guna2Panel panel12;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label22;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel11;
+        private Guna.UI2.WinForms.Guna2Panel panel11;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label11;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel10;
+        private Guna.UI2.WinForms.Guna2Panel panel10;
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.PictureBox pictureBox3;
@@ -1070,7 +1074,7 @@ namespace WFA_Millionaire
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
         private System.Windows.Forms.Panel pnlPhone;
         private Guna.UI2.WinForms.Guna2Button guna2Button2;
-        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Panel panel13;
         private Guna.UI2.WinForms.Guna2Button guna2Button4;
         private Guna.UI2.WinForms.Guna2Button guna2Button3;
         private System.Windows.Forms.Label label27;
